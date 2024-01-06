@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil Budzowski</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakol155&label=Profile%20views&color=0e75b6&style=flat" alt="kakol155" /> </p>
 
@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kakol155&show_icons=true&locale=en&layout=compact" alt="kakol155" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakol155&show_icons=true&theme=dark&locale=en" alt="kakol155" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakol155&" alt="kakol155" /></p>
